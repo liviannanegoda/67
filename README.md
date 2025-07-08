@@ -67,3 +67,16 @@ lorem).
 
 ○ Убедитесь, что меню на главной странице и странице каталога содержит
 ссылки для перехода между страницами.
+
+# Решение:
+## Косметика
+
+![3](https://github.com/user-attachments/assets/c20b773f-d159-4372-ae18-f360058ab3a7)
+## Шампунь
+
+![4](https://github.com/user-attachments/assets/d34bbf1d-80f8-4e6a-8857-6ff2501f0cba)
+## Мыло
+
+![5](https://github.com/user-attachments/assets/cbcbfb49-7793-4f57-aed4-cf52277ef499)
+
+
